@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">A Passionate Web Developer & Java Programmer</h3>
-
----
-
 ## 🚀 About Me
 - 🔥 I build modern, responsive web interfaces using **HTML, CSS, JS & Bootstrap**
 - ⚙️ I work with **APIs** using tools like **Postman** and **Hoppscotch**

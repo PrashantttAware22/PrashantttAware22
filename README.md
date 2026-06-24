@@ -20,9 +20,9 @@ const information = {
 ```
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrashantttAware22&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true)](https://github.com/PrashantttAware22)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prashantttaware&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true)](https://github.com/prashantttaware)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashantttAware22&theme=github_dark)](https://github.com/PrashantttAware22)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantttaware&theme=github_dark)](https://github.com/prashantttaware)
 
 ## Languages and Tools
 
